@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\IES Los Remedios\Entorno de desarrollo\UD4\proyectovs_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.exe
+C:\Users\Usuario\Desktop\IES Los Remedios\Entorno de desarrollo\UD4\proyectovs_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.deps.json
+C:\Users\Usuario\Desktop\IES Los Remedios\Entorno de desarrollo\UD4\proyectovs_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.runtimeconfig.json
+C:\Users\Usuario\Desktop\IES Los Remedios\Entorno de desarrollo\UD4\proyectovs_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\IES Los Remedios\Entorno de desarrollo\UD4\proyectovs_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.dll
+C:\Users\Usuario\Desktop\IES Los Remedios\Entorno de desarrollo\UD4\proyectovs_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.pdb
+C:\Users\Usuario\Desktop\IES Los Remedios\Entorno de desarrollo\UD4\proyectovs_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\IES Los Remedios\Entorno de desarrollo\UD4\proyectovs_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\IES Los Remedios\Entorno de desarrollo\UD4\proyectovs_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\IES Los Remedios\Entorno de desarrollo\UD4\proyectovs_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\IES Los Remedios\Entorno de desarrollo\UD4\proyectovs_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\IES Los Remedios\Entorno de desarrollo\UD4\proyectovs_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.dll
+C:\Users\Usuario\Desktop\IES Los Remedios\Entorno de desarrollo\UD4\proyectovs_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.pdb
+C:\Users\Usuario\Desktop\IES Los Remedios\Entorno de desarrollo\UD4\proyectovs_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.genruntimeconfig.cache
